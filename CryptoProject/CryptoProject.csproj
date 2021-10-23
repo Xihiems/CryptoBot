@@ -20,4 +20,8 @@
   <ItemGroup>
     <Folder Include="Modele\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Modele\Assets_data %28autre copie%29.cs" />
+    <Compile Remove="Modele\Assets_data %28copie%29.cs" />
+  </ItemGroup>
 </Project>

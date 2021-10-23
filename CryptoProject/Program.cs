@@ -37,7 +37,7 @@ namespace CryptoProject
                 return Task.CompletedTask;
             };
             await InstallCommandAsync();
-            await clientdiscord.LoginAsync(TokenType.Bot, "OTAwNzIxOTc2MDIzMzM0OTQy.YXFctQ.FAGOxpkaT3OGzujAAOhdw5_IdUA");
+            await clientdiscord.LoginAsync(TokenType.Bot, "Insérer le bon token");
             await clientdiscord.StartAsync();
             await Task.Delay(-1);
             

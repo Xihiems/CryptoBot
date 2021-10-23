@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{25954C1D-0DEC-4E84-AD4E-96EAF23FB4D1}|Default">
+  <MonoDevelop.Ide.ItemProperties.CryptoProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CryptoProject/Modules/Commands.cs">
+    <Files>
+      <File FileName="CryptoProject/Program.cs" Line="75" Column="1" />
+      <File FileName="CryptoProject/Modele/Assets_data.cs" Line="58" Column="6" />
+      <File FileName="CryptoProject/Modules/Commands.cs" Line="10" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CryptoProject" expanded="True">
+            <Node name="CryptoProject" expanded="True">
+              <Node name="Modele" expanded="True" />
+              <Node name="Modules" expanded="True">
+                <Node name="Commands.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="CryptoProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
